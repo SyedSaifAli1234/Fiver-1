@@ -1,4 +1,5 @@
 {
+  "homepage": "https://syedsaifali1234.github.io/Fiver-1",
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
@@ -10,17 +11,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
-  },
-  "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "http://syedsaifali1234.github.io/Portfolio2.0",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.2.6",
