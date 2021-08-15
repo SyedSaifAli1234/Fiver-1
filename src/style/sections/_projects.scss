@@ -1,5 +1,5 @@
 #projects {
-  background-color: $white-color;
+  background-color: $light-grey-bg;
   color: $dark-blue-text;
   margin-top: -10rem;
   padding-top: 15rem;
@@ -38,7 +38,10 @@
         font-weight: bold;
         margin-bottom: 1.8rem;
         font-size: $mid-font-size;
-
+        background-color: #02aab02b;
+        text-align: center;
+        font-family: cursive;
+        padding: 8px;
         @include respond(phone) {
           font-size: 2rem;
         }
